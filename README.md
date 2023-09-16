@@ -39,7 +39,7 @@ Before you can run this application, you need to have the following installed:
 1. download the zip
 2. Run the Flask application:
    ```bash
-   python app.py
+   python main.py
 ### Usage
 
 1. Access the URL shortener web interface at http://127.0.0.1:5000/.
