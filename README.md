@@ -37,3 +37,11 @@ Before you can run this application, you need to have the following installed:
 ### Installation
 
 1. download the zip
+2. Run the Flask application:
+   ```bash
+   python app.py
+### Usage
+
+1. Access the URL shortener web interface at http://127.0.0.1:5000/.
+2. Enter a long URL that you want to shorten and click the "Shorten URL" button.
+3. The application will generate a shortened URL, which you can use to access the original long URL.
